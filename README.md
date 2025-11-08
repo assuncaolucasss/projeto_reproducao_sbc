@@ -2,9 +2,9 @@
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI: 10.5753/edcomp.2023.22936](https://img.shields.io/badge/DOI-10.5753/edcomp.2023.22936-brightgreen)](https://doi.org/10.5753/edcomp.2023.22936)
-[![Ômega = 0.781](https://img.shields.io/badge/%CE%A9%20McDonald-0.781-success)](https://sol.sbc.org.br/index.php/educomp/article/view/22936)
-[![Reprodutibilidade 100%](https://img.shields.io/badge/Reprodutibilidade-100%25-success)](https://github.com/seu-usuario/reproducao-rauber-2023)
+[![DOI: 10.5753/edcomp.2023.22936](https://img.shields.io/badge/DOI-10.5753/edcomp.2023.22936-brightgreen)](ttps://doi.org/10.5753/educomp.2023.228159)
+[![Ômega = 0.781](https://img.shields.io/badge/%CE%A9%20McDonald-0.781-success)](https://sol.sbc.org.br/index.php/educomp/article/view/23873)
+[![Reprodutibilidade 100%](https://img.shields.io/badge/Reprodutibilidade-100%25-success)](https://github.com/assuncaolucasss/projeto_reproducao_sbc)
 
 > **Reprodução científica completa e exata** do artigo publicado nos **Anais do EduComp’23 (SBC)**  
 > **Ômega de McDonald = 0.781 (valor idêntico ao reportado)**  
@@ -21,8 +21,8 @@ Marcelo Fernando Rauber¹², Christiane Gresse von Wangenheim¹, Adriano F. Borg
 ²Instituto Federal Catarinense (IFC) – Campus Camboriú  
 
 **Publicação:** EduComp’23 – Congresso Brasileiro de Informática na Educação  
-**DOI:** [10.5753/edcomp.2023.22936](https://doi.org/10.5753/edcomp.2023.22936)  
-**PDF Original:** [sol.sbc.org.br](https://sol.sbc.org.br/index.php/educomp/article/view/22936)
+**DOI:** [10.5753/edcomp.2023.22936](https://doi.org/10.5753/educomp.2023.228159)  
+**PDF Original:** [sol.sbc.org.br](https://sol.sbc.org.br/index.php/educomp/article/view/23873)
 
 ---
 
