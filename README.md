@@ -67,7 +67,7 @@ projeto_reproducao_sbc/
 
 ```bash
 # 1. Clonar
-git clone [https://github.com/seu-usuario/reproducao-rauber-2023](https://github.com/assuncaolucasss/projeto_reproducao_sbc).git
+git clone https://github.com/assuncaolucasss/projeto_reproducao_sbc.git
 cd projeto_reproducao_sbc
 
 # 2. Ambiente virtual
